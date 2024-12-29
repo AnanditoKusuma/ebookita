@@ -57,3 +57,4 @@ Berikut adalah beberapa tampilan UI aplikasi **Sansgen** yang ada pada folder `a
 ### Langkah-langkah untuk instalasi:
 - Download file ini:
 ![app-debug.apk](assets/docs/app-debug.apk "File APP")
+# ebookita
